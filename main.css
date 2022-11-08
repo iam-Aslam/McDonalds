@@ -1,0 +1,363 @@
+body{
+    margin: 0px;
+}
+.header-main{
+    width: 100%;
+    height: 150px;
+    background:white;
+    box-shadow: 0px 15px 10px -15px rgba(228, 222, 222, 0.921);    
+}
+.logo{
+    margin-left: 358px;
+    margin-top: 18px;
+    float: left;
+    
+}
+.header-up{
+    float: left;
+    background: white;
+    width: 1050px;
+    height: 60px;
+    margin-left: 80px;
+    position: relative; 
+}
+.head-h3-1{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 1%;
+    color: rgba(9, 12, 12, 0.737);
+}
+.head-h3-2{
+    float: left;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 1%;
+    color: rgba(9, 12, 12, 0.737);
+}
+.head-h3-3{
+    float: left;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 1%;
+    color: rgba(9, 12, 12, 0.737);
+}
+.search-head{
+    float: left;
+    margin-left: 230px;
+    background:white;
+    height: 30px;
+    width: 80px;
+    margin-top: 13px;
+}
+.search-img{
+    padding: 8%;
+    float: left;
+
+}
+.search-txt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 0%;
+    color: rgba(9, 12, 12, 0.737);
+    float: left;
+    margin-left: -8px;
+}
+.location{
+    height: 50px;
+    width: 212px;
+    background: white;
+    float: left;
+    margin-left: 15px;
+
+}
+.location-img{
+    padding: 4%;
+    height: 35px;
+    width: 35px;
+    float: left;
+}
+.location-change{
+    float: left;
+    margin-left: -18px;
+    height: 40px;
+    width: 120px;
+    color: rgb(30, 106, 183);
+    padding: 5%;
+    font-size: 12px;
+    text-decoration: underline;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.divorder-btn{
+    height: 40px;
+    width: 120px;
+    margin-top: 5px;
+    float: left;
+}
+.order-btn{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(255, 196, 0);
+    border-radius: 6px;
+    border-color: rgb(255, 196, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding: 8%;
+}
+.header-down{
+    background: white;
+    width: 1050px;
+    height: 60px;
+    margin-left:550px;
+    margin-top: 64px;
+    position: absolute; 
+
+}
+.downh2-1{
+    padding: 1%;
+    font-weight: 400;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    float: left;
+}
+.downh2-2{
+    padding: 1%;
+    font-weight: 400;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    float: left;
+    margin-left: 15px;
+}
+.part-1{
+    width: 1200px;
+    height: 410px;
+    margin-left: 370px;
+    margin-top: 100px;
+    padding: 1%;
+}
+.part1-img{
+    padding: .5%;
+    height: 320px;
+    width: 660px;
+    float: left;
+
+}
+.part1-des{
+    float: left;
+    margin-left: 20px;
+    width: 450px;
+    height: 400px;
+    background: white;
+}
+.heading1{
+    margin-top: 0px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.description1{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 100;
+}
+.ref-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: 100;
+    margin-top: -15px;
+
+}
+.earn-btn{
+    height: 50px;
+    width: 217px;
+    background-color: rgb(255, 196, 0);
+    border-radius: 5px;
+    border-color: rgb(255, 196, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 0%;
+    margin-top: 55px;
+
+}
+.earn-btn4{
+    height: 50px;
+    width: 300px;
+    background-color: rgb(255, 196, 0);
+    border-radius: 5px;
+    border-color: rgb(255, 196, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 0%;
+    margin-top: 35px;
+}
+.footer-main{
+    width: 100%;
+    height: 700px;
+    background: white;
+    margin-top: 30px;
+}
+.sectionfooter-1{
+    width: 1140px;
+    height: 400px;
+    background:white;
+    margin-top: 10px;
+    margin-left: 384px;
+}
+.part-a{
+    background-color: white;
+    height: 400px;
+    width: 182px;
+    float: left;
+}
+.footer-head{
+    color: rgba(0, 0, 0, 0.84);
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    font-size: 15px;
+    margin-left: 5px;
+}
+.footer-comp{
+    color: rgba(0, 0, 0, 0.706);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    font-size: 13px;
+    margin-left: 5px;
+    margin-top: -2px;
+}
+.footer-comp1{
+    color: rgba(0, 0, 0, 0.706);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    font-size: 13px;
+    margin-left: 5px;
+    margin-top: -18px;
+    font-weight: 100;
+}
+.part-b{
+    background-color: white;
+    height: 400px;
+    width: 190px;
+    float: left;
+    margin-left: 110px;
+   
+}
+.sectionfooter-2{
+    width: 1139px;
+    height: 100px;
+    background:white;
+    margin-left: 384px;
+    margin-top: 25px;
+    box-shadow: 0px 15px 10px -15px rgba(152, 149, 149, 0.921); 
+}
+.sectionfooter2-a{
+    height: 100%;
+    width: 300px;
+    background:white;
+    margin-left: 1px;
+    float: left;
+}
+.socialmedia1{
+    padding: 1%;
+    width: 33px;
+    height: 33px;
+    margin-left: 0%;
+    margin-top: 0px;
+    float: left;
+
+}
+.socialmedia2{
+    padding: 1%;
+    width: 33px;
+    height: 33px;
+    margin-left: 4%;
+    margin-top: 0px;
+    float: left;
+
+}
+.sectionfooter2-b{
+    background: white;
+    height: 100%;
+    width: 450px;
+    float: left;
+    margin-left: 388px;
+    padding: 0%;
+}
+.appstore{
+    height: 40px;
+    width: 170px;
+    float: left;
+    padding: 2%;
+    margin-top: 0px;
+    margin-left: 30px;
+}
+.playstore{
+    height: 40px;
+    width: 170px;
+    float: left;
+    padding: 2%;
+    margin-top: 0px;
+    margin-left: -8px; 
+      
+}
+.sectionfooter-3{
+    width: 1139px;
+    height: 80px;
+    background:white;
+    margin-left: 384px;
+    margin-top: 35px;
+}
+.sectionfooter3-a{
+    width: 1139px;
+    height: 40px;
+    background:white;
+}
+.footer3-h6{
+    color: rgba(0, 0, 0, 0.706);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    font-size: 13px;
+    margin-left: 5px;
+    margin-top: 0px;
+    font-weight: 100;
+    float: left;
+}
+.footer3-h6a{
+    color: rgba(0, 0, 0, 0.706);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    font-size: 13px;
+    margin-left: 30px;
+    margin-top: 0px;
+    font-weight: 100;
+    float: left;
+}
+.logofooterlast{
+    width: 30px;
+    height: 30px;
+    padding: 0%;
+    margin-top: 5px;
+    margin-left: 100px;
+    float: left;
+
+}
+.sectionfooter3-b{
+    width: 1139px;
+    height: 40px;
+    background:white;
+}
+.footer3-h6b{
+    color: rgba(0, 0, 0, 0.706);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    font-size: 13px;
+    margin-left: 5px;
+    margin-top: -26px;
+    font-weight: 100;
+    float: left;
+}
